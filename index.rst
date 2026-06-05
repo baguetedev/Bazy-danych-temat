@@ -1,5 +1,5 @@
 ================================================
-Rozdział 1: Kontrola i konserwacja
+Kontrola i konserwacja
 ================================================
 
 :Autorzy:
